@@ -1,5 +1,5 @@
 #  Portafolio/Briefcase
-Este es el primer portafolio subido en el cual busco mostrar el aprendizaje adquirido a lo largo del curso de computacion 2, realizando un analisis de datos con pandas sobre el jugadores de la premier League 
+Este es el primer portafolio subido en el cual busco mostrar el aprendizaje adquirido a lo largo del curso de computacion 2, sobre los jugadores de la premier League 
 
 
 
